@@ -8,6 +8,8 @@ This project conducted a comprehensive sales analysis for Kroger Stores using Mi
 
 [Interact with the Dashboard](https://1drv.ms/x/s!AqF4PswXQc3KyXSh1HNaXunswQfN?e=T4mhFx)
 
+<img width="960" alt="EXCEL_ZqIzwyPKg4" src="https://github.com/user-attachments/assets/63dac55e-d0ac-40fa-804a-1fae86988146">
+
 ### Objective
 * Understand the overall sales performance.
 * Identify top-performing products and segments.
